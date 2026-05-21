@@ -1,0 +1,6 @@
+{
+  "name": "Smart Task Manager",
+  "description": "An AI-powered task management app featuring subtasks, deadlines, monthly calendar grid, recurring schedules, and Gemini-based smart prioritization and optimal schedule planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
